@@ -91,7 +91,7 @@ def jmeterServer = 'jmeter-server'
 4. **Настройка скриптов Jmeter**  
 Job запускает jmx-файлы с параметрами, передавая их через командную строку. Наименование параметров в скрипте должно
 быть таким же, как при запуске.  
-Пример скрипта Jmeter доступен в репозитории --> [jmeter-script/](https://github.com/promokk/pipeline-jmeter-run/tree/main/jmeter-file).
+Пример скрипта Jmeter доступен в репозитории --> [jmeter-script/](https://github.com/promokk/pipeline-jmeter-run/tree/main/jmeter-script).
 
 ---
 ## Описание pipeline <a id="pipelineDescription"></a>
