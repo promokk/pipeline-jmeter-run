@@ -11,7 +11,7 @@ Jenkins pipeline для автоматизированного запуска н
   * [Обязательные параметры запуска](#requiredStartupParameters)
   * [Архитектура репозитория Git](#gitRepositoryArchitecture)
   * [Используемые плагины Jenkins](#pluginsUseJenkins)
-* [Параметры запуск](#launchOptions)
+* [Параметры запуска](#launchOptions)
   * [NAMEJMX](#NAMEJMX)
   * [SERVER](#SERVER)
   * [MASTERSERVER](#MASTERSERVER)
@@ -156,7 +156,7 @@ Pipeline состоит из этапов (stage):
 * SSH Build Agents
 
 ---
-## Параметры запуск <a id="launchOptions"></a>
+## Параметры запуска <a id="launchOptions"></a>
 
 ---
 ### NAMEJMX <a id="NAMEJMX"></a>
